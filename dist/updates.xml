@@ -1,0 +1,18 @@
+<updates>
+	<update>
+		<name>Joomlog Component</name>
+		<description>A Changelog component for CMS Joomla!</description>
+		<element>com_joomlog</element>
+		<type>component</type>
+		<version>1.0</version>
+		<infourl>https://github.com/wamk9/JoomLog/releases/tag/v1.0</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/wamk9/JoomLog/releases/download/v1.0/com_joomlog_v1.0.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[3456789]|10|11|12|13|14|15|16" />
+		<php_minimum>7.1</php_minimum>
+	</update>
+</updates>

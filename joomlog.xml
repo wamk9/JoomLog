@@ -80,5 +80,9 @@
 			<language tag="en-GB">en-GB/en-GB.com_joomlog.sys.ini</language>
 		</languages>
 	</administration>
+	
+	<updateservers>
+		<server type="extension" name="Joomlog Updates">https://github.com/wamk9/JoomLog/raw/master/dist/updates.xml</server>
+	</updateservers>
 
 </extension>
