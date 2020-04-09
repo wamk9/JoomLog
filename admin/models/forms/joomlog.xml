@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form
+				addrulepath="/administrator/components/com_joomlog/models/rules"
+>
+	<fieldset>
+		<field
+				name="id"
+				type="hidden"
+				/>
+	</fieldset>
+</form>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form
+				addrulepath="/administrator/components/com_joomlog/models/rules"
+>
+	<fieldset>
+		<field
+				name="id"
+				type="hidden"
+				/>
+		<field
+				name="title"
+				type="text"
+				label="COM_JOOMLOG_MODIFY_LOG_TITLE_LABEL"
+				description="COM_JOOMLOG_MODIFY_LOG_TITLE_DESC"
+				size="100"
+				class="inputbox"
+				default=""
+				required="true"
+				/>
+		<field
+				name="fk_joomlog_version_id"
+				type="version"
+				label="COM_JOOMLOG_MODIFY_LOG_VERSION_LABEL"
+				description="COM_JOOMLOG_MODIFY_LOG_VERSION_DESC"
+				class="inputbox"
+				default=""
+				required="true"
+				/>
+		<field
+				name="fk_joomlog_type_id"
+				type="logtype"
+				label="COM_JOOMLOG_MODIFY_LOG_TYPE_LABEL"
+				description="COM_JOOMLOG_MODIFY_LOG_TYPE_DESC"
+				class="inputbox"
+				default="1"
+				required="true"
+				/>
+		<field
+				name="description"
+				type="editor"
+				label="COM_JOOMLOG_MODIFY_LOG_DESC_LABEL"
+				description="COM_JOOMLOG_MODIFY_LOG_DESC_DESC"
+				default=""
+				/>
+	</fieldset>
+			
+</form>
