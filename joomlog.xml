@@ -10,7 +10,7 @@
 	<copyright></copyright>
 	<license></license>
 	<!--  The version string is recorded in the components table -->
-	<version>1.1</version>
+	<version>1.0.1</version>
 	<!-- The description is optional and defaults to the name -->
 	<description>JoomLog Installed!</description>
 
@@ -85,7 +85,7 @@
 	</administration>
 	
 	<updateservers>
-		<server type="extension" name="Joomlog Updates">https://github.com/wamk9/JoomLog/raw/master/dist/updates.xml</server>
+		<server type="extension" name="Joomlog Updates">https://startproj.com/files/joomlog/updates.xml</server>
 	</updateservers>
 
 </extension>

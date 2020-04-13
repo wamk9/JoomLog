@@ -39,6 +39,7 @@ hr.separator-joomlog
 	margin-right: auto;
 	max-width: 1000px;
 	width: 100%;
+	text-align: left;
 }
 </style>
 
