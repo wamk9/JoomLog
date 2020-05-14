@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
-	<layout title="COM_JOOMLOG_FRONTEND_DEFAULT_TITLE">
-		<message>COM_JOOMLOG_FRONTEND_DEFAULT_DESC</message>
-	</layout>
-	<fields 
-			name="request"
-			addfieldpath="/administrator/components/com_joomlog/models/fields"
-		>
-		<fieldset name="request">
-			
-		</fieldset>
-	</fields>
+  <layout title="COM_JOOMLOG_FRONTEND_DEFAULT_TITLE">
+    <message>COM_JOOMLOG_FRONTEND_DEFAULT_DESC</message>
+  </layout>
+  <fields 
+      name="request"
+      addfieldpath="/administrator/components/com_joomlog/models/fields"
+    >
+    <fieldset name="request">
+      
+    </fieldset>
+  </fields>
 </metadata>
